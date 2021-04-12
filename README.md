@@ -10,9 +10,9 @@ The project's deliverables are;
 
 ## Results: 
 First, the number of retiring employees by title was created with the inner join function using the table of employees, titles, and the created ERD as a reference. 
-It was created the Retirement Titles table that holds all the titles of current employees who were born between January 1, 1952, and December 31, 1955.  
-Then, for removing duplicate rows that was using the DISTINCT ON statement to create a table that contains the most recent title of each employee due to some employees 
+It was created the Retirement Titles table that holds all the titles of current employees who were born between January 1, 1952, and December 31, 1955. Then, for removing duplicate rows that was using the DISTINCT ON statement to create a table that contains the most recent title of each employee due to some employees 
 might have multiple titles in the database -for instance, the promotions. Finally, it was used the COUNT function for the final table which has the number of retirement-age employees by most recent job title. 
+
 Second, the Employees Eligible for the Mentorship Program table holds the current employees who were born between January 1, 1965 and December 31, 1965. 
 
 ERD Schema which shows the relationship between the tables to build queries.
