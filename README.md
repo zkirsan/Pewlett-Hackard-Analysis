@@ -24,6 +24,10 @@ ERD Schema which shows the relationship between the tables to build queries.
 Human Resources (HR) at Pewlett-Hackard is planning for a "silver tsunami" when more existing staff hit retirement age, 
 but they are uncertain how many or in which divisions they will serve. With a quick query shows that 90,398 current employee who are eligible for retirement 
 (See the retiring_titles.csv file).
+
+<p align="center"><img src="https://github.com/zkirsan/Pewlett-Hackard-Analysis/blob/main/Retiring_Titles.PNG"></img></p>
+
+
  
 
 Provide high-level responses to the following questions, then provide two additional queries or tables that may provide more insight into the upcoming "silver tsunami."
